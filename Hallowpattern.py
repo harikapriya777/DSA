@@ -62,8 +62,8 @@ for i in range(n):
         if i==n//2 or j==n//2:
             print("*", end=" ")
         else:
-            print(" ",end=" ")'''
-    print()
+            print(" ",end=" ")
+    print()'''
 
 '''n= int(input("enter the value of n:"))
 for i in range(n):
